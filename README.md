@@ -1,8 +1,8 @@
 ## ✌️ Hi, I'm Nicola De Nicolais
 
-Welcome to my GitHub's page!
+📌 Welcome to my GitHub's page!
 
-I’m working as a IT Engineer and Researcher to discover new technology and develop new application.
+💡 I’m working as a IT Engineer and Researcher to discover new technology and develop new application.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndenicolais&theme=moltack&layout=compact)](https://github.com/ndenicolais)
 

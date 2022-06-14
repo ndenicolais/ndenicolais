@@ -2,7 +2,7 @@
 
 Welcome to my GitHub's page!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndenicolais&layout=compact)](https://github.com/ndenicolais)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndenicolais&theme=moltack&layout=compact)](https://github.com/ndenicolais)
 
 ## Main technologies
 

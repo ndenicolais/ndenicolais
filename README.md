@@ -4,9 +4,7 @@
 
 💡 I’m working as a IT Engineer and Researcher to discover new technology and develop new application.
 
-<a href="https://github.com/ndenicolais">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndenicolais&layout=compact&langs_count=7&theme=moltack"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ndenicolais&show_icons=true&theme=moltack&include_all_commits=true&count_private=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndenicolais&layout=compact&theme=moltack"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ndenicolais&show_icons=true&include_all_commits=true&theme=moltack&hide_border=true">
 
 ## 📫 My contacts
 <a href="https://github.com/ndenicolais" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" title="GitHub"/></a>

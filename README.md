@@ -2,10 +2,11 @@
 
 📌 Welcome to my GitHub's page!
 
-💡 I’m working as a IT Engineer and Researcher to discover new technology and develop new application.
+💡 I’m an Italian computer engineer who is working as a IT researcher to discover new technology and develop new application.
 
-![DeNicks21's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndenicolais&layout=compact)
-![DeNicks21's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndenicolais&hide=contribs,prs&show_icons=true)
+## 📊 GitHub's stat
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ndenicolais&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="DeNicks21's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndenicolais&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ## 📫 My contacts
 <a href="https://github.com/ndenicolais" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" title="GitHub"/></a>

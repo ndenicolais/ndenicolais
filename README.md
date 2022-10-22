@@ -5,7 +5,7 @@
 💡 I’m an Italian computer engineer who has always been passionate about science and technology. I have taken the path of researcher and computer developer to learn and apply new technologies. Determined and precise, I am ready to put myself on the line in any area of development. Currently i am working as a researcher and IT developer in the RSI area of Arethusa Srl.
 
 ## 📊 GitHub's stat
-| <a href="https://github.com/ndenicolais"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ndenicolais&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="DeNicks21's github stats" /></a> | <a href="https://github.com/ndenicolais"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndenicolais&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/ndenicolais"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ndenicolais&show_icons=true&theme=buefy&hide_border=true" alt="DeNicks21's github stats" /></a> | <a href="https://github.com/ndenicolais"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndenicolais&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ## 📫 My contacts

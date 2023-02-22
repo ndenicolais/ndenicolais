@@ -1,5 +1,7 @@
 ## ✌️ Hi, I'm Nicola De Nicolais
 
+<img src="https://i.ibb.co/ZY9jcGk/NDN-banner-v2.png">
+
 📌 Welcome to my GitHub's page!
 
 💡 I’m an Italian software developer who has always been passionate about science and technology. I have embarked on the path of software developer and, especially, applications on Android platform. Proactive and motivated, with a passion for problem-solving and continuous learning, I am ready to put myself in play in any design field. Currently i am working as a researcher and IT developer in the RSI area of Arethusa Srl.

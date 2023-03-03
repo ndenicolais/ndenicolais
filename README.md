@@ -1,10 +1,9 @@
-## ✌️ Hi, I'm Nicola De Nicolais
+## ✌️ Welcome to my GitHub's page!
 
 <img src="https://i.ibb.co/ZY9jcGk/NDN-banner-v2.png">
 
-📌 Welcome to my GitHub's page!
-
-💡 I’m an Italian software developer who has always been passionate about science and technology. I have embarked on the path of software developer and, especially, applications on Android platform. Proactive and motivated, with a passion for problem-solving and continuous learning, I am ready to put myself in play in any design field. Currently i am working as a researcher and IT developer in the RSI area of Arethusa Srl.
+💡 I’m an Italian software developer who has always been passionate about science and technology and this passion has been fundamental for the choice of the undertaken course of study. In relation to this I have obtained the degree choosing as thesis topic the Blockchain because of its technological innovation and for the benefits that it can supply to various fields. After graduation I started the path of software developer using first the languages Javascript and Typescript with which I enjoyed creating PWA (Progressive Web Application) using Node.js and React.js. I am currently developing mobile apps on Android platform using the Kotlin language.
+Proactive and motivated, with a passion for problem solving and continuous learning, I am ready to put myself in play in any design field to expand my knowledge. Currently i am working as a researcher and IT developer in the RSI area of Arethusa Srl.
 
 ## 📊 GitHub's stat
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndenicolais&layout=compact)

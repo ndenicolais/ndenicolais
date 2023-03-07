@@ -6,7 +6,7 @@
 
 📱 I am currently developing mobile apps on Android platform using the Kotlin language with Jetpack Compose.
 
-💡 Currently I am working as a researcher and software developer in the RSI area of Arethusa Srl.
+💡 Currently I am working as a researcher and software developer in the RSI area of Arethusa Srl in Casoria (NA).
 
 ## 📊 GitHub's stat
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndenicolais&layout=compact)

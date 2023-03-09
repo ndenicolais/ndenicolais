@@ -1,5 +1,4 @@
 ## 👋 Welcome to my GitHub's page!
-
 <img src="https://i.ibb.co/ZY9jcGk/NDN-banner-v2.png">
 
 📌 I’m an Italian software developer who has always been passionate about science and technology and this passion has been fundamental for the choice of the undertaken course of study. In relation to this I have obtained the degree choosing as thesis topic the Blockchain because of its technological innovation and for the benefits that it can supply to various fields. After graduation I started the path of software developer using first the languages Javascript and Typescript with which I enjoyed creating PWA (Progressive Web Application) using Node.js and React.js.

@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nicola De Nicolais
 
 ## 📌 About me
-An Italian software developer with experience in research and development. During this experience I started developing Android applications. I developed both using the native language Kotlin with XML Layouts and Jetpack Compose and the language Dart with Flutter. Additionally, I use Figma to design app structures before converting them into code. In this period I am refining my skills developing with Flutter.';
+An Italian software developer with experience in research and development. During this experience I started developing Android applications. I developed both using the native language Kotlin with XML Layouts and Jetpack Compose and the language Dart with Flutter. Additionally, I use Figma to design app structures before converting them into code. In this period I am refining my skills developing with Flutter.
 
 ## 	💻 My skills
 <p align="left">

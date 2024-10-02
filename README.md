@@ -3,7 +3,8 @@
 
 <!-- About Me -->
 <h2 align="center">📌 My Bio</h2>
-An Italian software developer with experience in research and development. During this experience I started developing Android applications. I developed both using the native language Kotlin with XML Layouts and Jetpack Compose and the language Dart with Flutter. Additionally, I use Figma to design app structures before converting them into code. In this period I am refining my skills developing with Flutter.
+I am a software developer with 2 years of experience in research and development. During this time, I started developing Android applications using both the native Kotlin language with XML Layout and the Jetpack Compose framework, as well as the Dart language with the Flutter framework.
+To design the structures of my apps, I use the tool Figma before translating the designs into code. Currently, I am refining my skills in cross-platform mobile app development with Flutter.
 
 <!-- Tech Stack -->
 <h2 align="center">🚀 My Skills</h2>
@@ -31,7 +32,7 @@ An Italian software developer with experience in research and development. Durin
 </p>
 
 <!-- Let's Connect -->
-<h2 align="center">🌐 My Contacts</h2>
+<h2 align="center">📋 My Contacts</h2>
 
 <p align="center">
   <a href="mailto:n.denicolais@outlook.it"><img alt="Email" src="https://cdn-icons-png.flaticon.com/512/732/732223.png" width="40" height="40"/>

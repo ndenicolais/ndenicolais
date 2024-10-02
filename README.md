@@ -2,11 +2,11 @@
 <h1 align="center">👋 Hi, I'm Nicola De Nicolais</h1>
 
 <!-- About Me -->
-<h2 align="center">📌 About Me</h2>
+<h2 align="center">📌 My Bio</h2>
 An Italian software developer with experience in research and development. During this experience I started developing Android applications. I developed both using the native language Kotlin with XML Layouts and Jetpack Compose and the language Dart with Flutter. Additionally, I use Figma to design app structures before converting them into code. In this period I am refining my skills developing with Flutter.
 
 <!-- Tech Stack -->
-<h2 align="center">🚀 Tech Stack</h2>
+<h2 align="center">🚀 My Skills</h2>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="flutter" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
@@ -15,7 +15,8 @@ An Italian software developer with experience in research and development. Durin
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="flutter" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="flutter" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="flutter" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="kotlin" width="40" height="40"/>
+<
+img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="kotlin" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="kotlin" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="flutter" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="flutter" width="40" height="40"/>

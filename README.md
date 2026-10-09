@@ -12,7 +12,7 @@
       src="https://img.shields.io/badge/Open_to_work-new_opportunities-FFCCA7?style=for-the-badge"
       alt="Open to work"
     />
-    <a href="https://ndenicolais.github.io/cv.pdf">
+    <a href="https://ndenicolais.github.io/Nicola_De_Nicolais_CV.pdf">
       <img
         src="https://img.shields.io/badge/Download-CV-30303D?style=for-the-badge&logo=readdotcv&logoColor=FFCCA7"
         alt="Download CV"

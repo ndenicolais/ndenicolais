@@ -12,12 +12,7 @@
       src="https://img.shields.io/badge/Open_to_work-new_opportunities-FFCCA7?style=for-the-badge"
       alt="Open to work"
     />
-    <a href="https://ndenicolais.github.io/Nicola_De_Nicolais_CV.pdf">
-      <img
-        src="https://img.shields.io/badge/Download-CV-30303D?style=for-the-badge&logo=readdotcv&logoColor=FFCCA7"
-        alt="Download CV"
-      />
-    </a>
+    <a href="https://ndenicolais.github.io/Nicola_De_Nicolais_CV.pdf"><img src="https://img.shields.io/badge/Download-CV-30303D?style=for-the-badge&logo=readdotcv&logoColor=FFCCA7" alt="Download CV" /></a>
   </p>
 
 </div>
@@ -104,14 +99,14 @@ I'm currently **open to new opportunities** — feel free to reach out!
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ndenicolais/Fivelink">Fivelink</a></h3>
-      <p>A daily number puzzle: order five operation tiles to reach the target in six attempts. Fully offline.</p>
-      <p><sub><b>Stack:</b> Flutter · Dart · Shared Preferences</sub></p>
-      <a href="https://github.com/ndenicolais/Fivelink">View Repository →</a>
+      <h3><a href="https://github.com/ndenicolais/Noteep">Noteep</a></h3>
+      <p>Notes, checklists, tasks and calendar events synced to your account, with reminders, voice notes, widgets and backups.</p>
+      <p><sub><b>Stack:</b> Flutter · Dart · Firebase</sub></p>
+      <a href="https://github.com/ndenicolais/Noteep">View Repository →</a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ndenicolais/Shox">Shox</a></h3>
-      <p>A shoe wardrobe app for cataloging, organizing and tracking a footwear collection.</p>
+      <p>A shoe wardrobe app for cataloging, organizing and tracking a footwear collection. Now at v5, available in 5 languages.</p>
       <p><sub><b>Stack:</b> Flutter · Dart · Firebase</sub></p>
       <a href="https://github.com/ndenicolais/Shox">View Repository →</a>
     </td>
@@ -124,13 +119,17 @@ I'm currently **open to new opportunities** — feel free to reach out!
       <a href="https://github.com/ndenicolais/QRation">View Repository →</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ndenicolais/ndenicolais.github.io">My Portfolio</a></h3>
-      <p>A bilingual portfolio with light/dark themes, filterable projects and animated sections.</p>
-      <p><sub><b>Stack:</b> Next.js · React · TypeScript · Tailwind CSS</sub></p>
-      <a href="https://github.com/ndenicolais/ndenicolais.github.io">View Repository →</a>
+      <h3><a href="https://github.com/ndenicolais/Fivelink">Fivelink</a></h3>
+      <p>A daily number puzzle: order five operation tiles to reach the target in six attempts. Fully offline.</p>
+      <p><sub><b>Stack:</b> Flutter · Dart · Shared Preferences</sub></p>
+      <a href="https://github.com/ndenicolais/Fivelink">View Repository →</a>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <sub>More projects, including web apps built with React and Next.js, on my <a href="https://ndenicolais.github.io">portfolio</a>.</sub>
+</p>
 
 ---
 
@@ -156,22 +155,7 @@ I'm currently **open to new opportunities** — feel free to reach out!
 I'm open to new opportunities, collaborations and projects. Feel free to reach out!
 
 <p>
-  <a href="mailto:n.denicolais@outlook.it">
-    <img
-      src="https://img.shields.io/badge/Email-Contact-FFCCA7?style=for-the-badge&logo=microsoftoutlook&logoColor=30303D"
-      alt="Email"
-    />
-  </a>
-  <a href="https://ndenicolais.github.io">
-    <img
-      src="https://img.shields.io/badge/Portfolio-Visit-30303D?style=for-the-badge&logo=googlechrome&logoColor=FFCCA7"
-      alt="Portfolio"
-    />
-  </a>
-  <a href="https://it.linkedin.com/in/nicoladenicolais">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
+  <a href="mailto:n.denicolais@outlook.it"><img src="https://img.shields.io/badge/Email-Contact-FFCCA7?style=for-the-badge&logo=microsoftoutlook&logoColor=30303D" alt="Email" /></a>
+  <a href="https://ndenicolais.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-30303D?style=for-the-badge&logo=googlechrome&logoColor=FFCCA7" alt="Portfolio" /></a>
+  <a href="https://it.linkedin.com/in/nicoladenicolais"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>

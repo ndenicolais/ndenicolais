@@ -99,10 +99,10 @@ I'm currently **open to new opportunities** — feel free to reach out!
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/ndenicolais/Noteep">Noteep</a></h3>
-      <p>Notes, checklists, tasks and calendar events synced to your account, with reminders, voice notes, widgets and backups.</p>
+      <h3><a href="https://github.com/ndenicolais/Taskenda">Taskenda</a></h3>
+      <p>Calendar, tasks and notes in one app, synced to your account, with reminders, sharing, widgets and backups.</p>
       <p><sub><b>Stack:</b> Flutter · Dart · Firebase</sub></p>
-      <a href="https://github.com/ndenicolais/Noteep">View Repository →</a>
+      <a href="https://github.com/ndenicolais/Taskenda">View Repository →</a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ndenicolais/Shox">Shox</a></h3>
